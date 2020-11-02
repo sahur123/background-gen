@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(to right, red , yellow);
+	text-align: center;
+}
+
+h1{
+	color: #2E4756;
+	font-family: Helvetica;
+	margin-top: 200px;
+	font-size: 3em;
+	letter-spacing: 23px;
+}
+
+h2{
+	color: #2E4756;
+	font-family: Helvetica;
+	margin-top: 40px;
+}
